@@ -1,0 +1,15 @@
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\bin\Debug\net8.0\DockerNetcore.exe
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\bin\Debug\net8.0\DockerNetcore.deps.json
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\bin\Debug\net8.0\DockerNetcore.runtimeconfig.json
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\bin\Debug\net8.0\DockerNetcore.dll
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\bin\Debug\net8.0\DockerNetcore.pdb
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\DockerNetcore.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\DockerNetcore.AssemblyInfoInputs.cache
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\DockerNetcore.AssemblyInfo.cs
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\DockerNetcore.csproj.CoreCompileInputs.cache
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\DockerNetcore.sourcelink.json
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\DockerNetcore.dll
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\refint\DockerNetcore.dll
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\DockerNetcore.pdb
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\DockerNetcore.genruntimeconfig.cache
+c:\Users\Gabriel Nzete\cicd\helloworld-ci-cd\DockerNetcore\obj\Debug\net8.0\ref\DockerNetcore.dll
